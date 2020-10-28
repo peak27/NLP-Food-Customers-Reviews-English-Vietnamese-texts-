@@ -19,7 +19,7 @@ This repo consists the NLP implementation on English and Vietnamese text to find
   * R (For R implementation)
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;You can use these repository to conduct some NLP on your own using any text datasets regarding any sorts of online comments, reviews or opinion about any possible topic.
+&nbsp;&nbsp;&nbsp;&nbsp;You can use these repository to conduct some NLP on your own using any text datasets regarding any sorts of online comments, reviews or opinion towards any possible topic.
 
 ## Credits 
 &nbsp;&nbsp;&nbsp;This was an individual project.
