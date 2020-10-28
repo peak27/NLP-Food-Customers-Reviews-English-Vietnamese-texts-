@@ -12,12 +12,14 @@ This repo consists the NLP implementation on English and Vietnamese text to find
   * Jupyter Notebook
   * Libraries
     * Pandas
-  * NumPy
-  * Scikit-Learn
+    * NumPy
+    * Scikit-Learn
+    * Matplotlib and Seaborn
+    * NLTK (Natural Language Toolkit)
   * R (For R implementation)
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;Association rule learning is important to build the recomender funtionality on your system such as e-commerce website or social media. One most common example of association rule is to identify that the people who bought diapers will also purchase beer. As the possibility, he might be babysitting and needs beer to spend his boring time at home.
+&nbsp;&nbsp;&nbsp;&nbsp;You can use these repository to conduct some NLP on your own using any text datasets regarding any sorts of online comments, reviews or opinion about any possible topic.
 
 ## Credits 
 &nbsp;&nbsp;&nbsp;This was an individual project.
