@@ -10,7 +10,7 @@ This repo consists the NLP implementation on English and Vietnamese text to find
 &nbsp;&nbsp;&nbsp;&nbsp;In order to be able to apply these regression techniques to predict outcome on your dataset you need to have following tools and libraries:
   * Python 2.x or Python 3.x
   * Jupyter Notebook
-  ** Pandas
+   * Pandas
   * NumPy
   * Scikit-Learn
   * R (For R implementation)
