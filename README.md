@@ -1,20 +1,16 @@
-# NLP-Food-Customers-Reviews-English-Vietnamese-texts-
+# NLp on Customers Review (Food)
 This repo consists the NLP implementation on English and Vietnamese text to find out how people are reacting and to learn their concerns in the world of food.
 
-# Association Rule (w/ Python & R)
-This repository contains the Association Rules such as Apriori and Eclat which can be useful to build recommender system with Machine Learning. You will find these two techniques on R and Python throughout this Repository.
-
-# **Project name:** # Classifications (w/ Python & R)
-
 ## Description
-&nbsp;&nbsp;&nbsp;&nbsp;In machine learning, association rule learning is a rule-based method for identifying interesting relationship between the variables in a large dataset. With the help of some interestingness, it is intended to identify strong rules. 
+&nbsp;&nbsp;&nbsp;&nbsp;In this repository, Natural Language Processing is implemented to find the hidden patterns and to see the opinon of majority of food reviewers. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;In this repository, we are implementing some commonly used Association rules such as Eclat and Apriori.
+&nbsp;&nbsp;&nbsp;&nbsp;Natural language processing steps such as, tokenization, text lemmatization, removing stop words and punctuation, bulding corpus out of document, building word cloud, word frequency count and more are implemented to extract even more accurate information. 
 
 ## Installation 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to be able to apply these regression techniques to predict outcome on your dataset you need to have following tools and libraries:
   * Python 2.x or Python 3.x
-  * Pandas
+  * Jupyter Notebook
+  ** Pandas
   * NumPy
   * Scikit-Learn
   * R (For R implementation)
